@@ -19,7 +19,7 @@ Lecture 01-08 : 3,8,9 (read optimization.py)
 
 ### Week 3
 
-Lecture 01-09 : Read optimization.py/ SPO API/ 
+Lecture 01-09 : Read optimization.py/ scipy optimization API/ 
 Lecture 03-01 :
 Lecture 03-02 :
 
@@ -32,20 +32,20 @@ Decision Trees 2 :
 
 ### Week 5
 
-Lecture 02-01 :
-Lecture 02-02 :
+Lecture 02-01 : 3,4,6, 11
+Lecture 02-02 : 2,3,5,6
 What Hedge Funds Really Do Ch. 2 :
 What Hedge Funds Really Do Ch. 4 :
 
 ### Week 6
 
-Lecture 02-03 :
-Lecture 02-04 :
-What Hedge Funds Really Do Ch. 5 :
-What Hedge Funds Really Do Ch. 7 :
+Lecture 02-03 : 5,6,8,9
+Lecture 02-04 : 5,7,8, 10
+What Hedge Funds Really Do Ch. 5 : 
+What Hedge Funds Really Do Ch. 7 :  
 Is the stock market rigged? :
 
 ### Week 7
 
-Lecture 02-05 :
-Lecture 02-06 :
+Lecture 02-05 : 2,4,7
+Lecture 02-06 : 4,5,8
