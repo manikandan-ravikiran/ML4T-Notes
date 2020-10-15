@@ -1,7 +1,6 @@
 # ML4T-CS7646
 Notes and Materials for Machine Learning for Trading CS7646 (Fall 2020)
 
-
 ## Exam - 1
 ### Week 1
 
@@ -20,13 +19,13 @@ Lecture 01-08 : 3,8,9 (read optimization.py)
 ### Week 3
 
 Lecture 01-09 : Read optimization.py/ scipy optimization API/ 
-Lecture 03-01 :
-Lecture 03-02 :
+Lecture 03-01 : 7,8,9,10
+Lecture 03-02 : 2,3,5,
 
 ### Week 4
 
-Lecture 03-03 :
-Lecture 03-04 :
+Lecture 03-03 : 2,3,4,5,8,9,10
+Lecture 03-04 : 2,4,6,7
 Decision Trees 1 :
 Decision Trees 2 :
 
@@ -40,10 +39,10 @@ What Hedge Funds Really Do Ch. 4 :
 ### Week 6
 
 Lecture 02-03 : 5,6,8,9
-Lecture 02-04 : 5,7,8, 10
+Lecture 02-04 : 5,7,8,10
 What Hedge Funds Really Do Ch. 5 : 
 What Hedge Funds Really Do Ch. 7 :  
-Is the stock market rigged? :
+Is the stock market rigged? : Yes it rigged
 
 ### Week 7
 
