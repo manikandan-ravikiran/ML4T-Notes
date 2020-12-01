@@ -48,3 +48,52 @@ Is the stock market rigged? : Yes it rigged
 
 Lecture 02-05 : 2,4,7
 Lecture 02-06 : 4,5,8
+
+# Exam 2
+Monday
+-----
+Lecture 02-07
+Lecture 02-08
+(20 pages)
+
+
+Tuesday
+------
+Lecture 02-09
+Lecture 02-10
+(20 pages)
+
+
+Wednesday
+---------
+Lecture 03-05
+Lecture 03-06
+https://www.youtube.com/watch?v=K8xRATOpsqw
+(20 pages)
+
+
+Thursday
+-------
+Lecture 03-07
+Lecture 02-07
+Lecture 02-08
+https://www.youtube.com/watch?v=2e2Yr-Bpo-w
+(20 pages)
+
+
+Friday (2-3 hrs)
+------
+Options Trading - https://www.youtube.com/watch?v=5ompRHd0P68&feature=youtu.be
+Interview with Tammer Kamel (Canvas)
+https://www.youtube.com/watch?v=2e2Yr-Bpo-w
+(20 pages)
+
+
+
+Saturday
+--------
+What Hedge Funds Really Do Ch. 8
+What Hedge Funds Really Do Ch. 9
+What Hedge Funds Really Do Ch. 12
+https://www.youtube.com/watch?v=dbSbYHECGoA
+Study fundamental law of active portfolio from external book and also read efficient frontier and also mean variance optimization
