@@ -1,7 +1,8 @@
 # ML4T-CS7646
-Notes and Materials for Machine Learning for Trading CS7646 (Fall 2020)
+Notes and Materials for Machine Learning for Trading CS7646 (Fall 2020).
+Tips for Exams: Go through example papers from last year and its literally a piece of cake.
 
-## Exam - 1
+## Preparation plan - Exam 1
 ### Week 1
 
 Lecture 01-01 : 5,9,14
@@ -49,7 +50,8 @@ Is the stock market rigged? : Yes it rigged
 Lecture 02-05 : 2,4,7
 Lecture 02-06 : 4,5,8
 
-# Exam 2
+## Preparation plan - Exam 2
+
 Monday
 -----
 Lecture 02-07
